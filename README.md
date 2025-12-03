@@ -7,7 +7,7 @@ No database is used — all tasks are stored in memory on the backend, making it
 🚀 Features
 Frontend
 
-Built with React + Vite / CRA (depends on your setup)
+Built with React + Vite 
 
 Modern UI with reusable components
 
