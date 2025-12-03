@@ -26,7 +26,7 @@ Stores tasks in memory
 Auto-resets data on server restart
 
 📁 Project Structure
-TaskFlow/
+Task-manager-master/
  ├── backend/
  │    ├── server.js
  │    ├── routes/
@@ -61,12 +61,12 @@ In-memory data storage (simple array/object)
 
 📦 Installation & Setup
 1️⃣ Clone the repository
-git clone https://github.com/your-username/TaskFlow.git
-cd TaskFlow
+git clone https://github.com/jana-ezzat/Task-manager.git
+cd Task-manager-master
 
 
 Start the backend:
-
+cd backend
 npm run dev
 
 
@@ -75,7 +75,7 @@ Backend runs on:
 
 Start the frontend:
 cd frontend
-npm start
+npm run dev
 
 
 Frontend runs on:
